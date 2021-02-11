@@ -54,6 +54,12 @@
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "It's true this man has no dick",
+      "author": "Peter Venkmen",
+      "likes": [],
+      "id": 12
     }
   ],
   "likes": [
@@ -66,6 +72,311 @@
       "quoteId": 10,
       "id": 2,
       "createdAt": 1558524358
+    },
+    {
+      "quoteId": 11,
+      "id": 3
+    },
+    {
+      "quoteId": 11,
+      "id": 4
+    },
+    {
+      "quoteId": 11,
+      "id": 5
+    },
+    {
+      "quoteId": 10,
+      "id": 6
+    },
+    {
+      "quoteId": 9,
+      "id": 7
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1613015210450,
+      "id": 8
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613015727041,
+      "id": 12
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1613016018634,
+      "id": 22
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1613016020017,
+      "id": 23
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1613016021838,
+      "id": 24
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1613016023689,
+      "id": 25
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613016025281,
+      "id": 26
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613016026821,
+      "id": 27
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613016028899,
+      "id": 28
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613016032118,
+      "id": 29
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613016034203,
+      "id": 30
+    },
+    {
+      "quoteId": 10,
+      "createdAt": 1613016036265,
+      "id": 31
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1613016121844,
+      "id": 32
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1613016124070,
+      "id": 33
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1613016127360,
+      "id": 34
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1613016128984,
+      "id": 35
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1613016131960,
+      "id": 36
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1613016133734,
+      "id": 37
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1613016135086,
+      "id": 38
+    },
+    {
+      "quoteId": 8,
+      "createdAt": 1613016187761,
+      "id": 39
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1613016209926,
+      "id": 40
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1613016211402,
+      "id": 41
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016598056,
+      "id": 42
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016601961,
+      "id": 43
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016603255,
+      "id": 44
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613016605558,
+      "id": 45
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016633549,
+      "id": 46
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016636909,
+      "id": 47
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016639137,
+      "id": 48
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016640732,
+      "id": 49
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016643769,
+      "id": 50
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016645410,
+      "id": 51
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613016647614,
+      "id": 52
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1613016654351,
+      "id": 53
+    },
+    {
+      "quoteId": 4,
+      "createdAt": 1613016658135,
+      "id": 54
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016731253,
+      "id": 55
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016733713,
+      "id": 56
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016735261,
+      "id": 57
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016736487,
+      "id": 58
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016737229,
+      "id": 59
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613016737769,
+      "id": 60
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613016739619,
+      "id": 61
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613016741447,
+      "id": 62
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1613016825497,
+      "id": 63
+    },
+    {
+      "quoteId": 6,
+      "createdAt": 1613016830576,
+      "id": 64
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016958013,
+      "id": 65
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613016959397,
+      "id": 66
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613017004411,
+      "id": 67
+    },
+    {
+      "quoteId": 1,
+      "createdAt": 1613017005497,
+      "id": 68
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017037051,
+      "id": 69
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017037237,
+      "id": 70
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017037449,
+      "id": 71
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017038855,
+      "id": 72
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017041425,
+      "id": 73
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017042933,
+      "id": 74
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1613017043801,
+      "id": 75
+    },
+    {
+      "quoteId": 3,
+      "createdAt": 1613017045207,
+      "id": 76
     }
   ]
 }
